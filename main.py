@@ -1,4 +1,3 @@
-import test.test
 from lib.arquivo import escrever, pesquisar, exibir, excluir, alterar, gerarBoletim
 import lib.menu as menu
 
