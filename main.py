@@ -29,5 +29,3 @@ while True:
         gerarBoletim(ra)
     else:
         break
-
-#ricardo barsellis megasoft
